@@ -16,3 +16,11 @@ This is a simple command-line Python app that calculates your Body Mass Index (B
 1. Run the app:
    ```bash
    python workout_planner.py
+
+## 🆕 New Feature (v2.0)
+The app now recommends whether you should work out at **home** or go to the **gym**, based on your BMI:
+
+- **Underweight**: Home
+- **Normal**: Home or Gym
+- **Overweight**: Gym preferred
+- **Obese**: Gym strongly recommended
